@@ -11,7 +11,7 @@ To calculate the total number of subscribers in a country, multiplied each count
 
 To calculate the data usage per subscription, divided the total mobile data traffic in a region by the total number of subscribers in a region. <br />
 
-To calculate the price per contract, multiplied the data usage per subscription by the price per GB for each country <br />
+To calculate the price per contract, multiplied the data usage per subscription by the price per GB for each country. <br />
 
 Regional TAM was estimated by multiplying the value of each contract with the number of total contracts in each region. Global TAM was a sum of the regional TAM estimates. <br />
 
