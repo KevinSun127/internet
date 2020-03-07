@@ -5,7 +5,7 @@ Used the following datasets:<br />
 2. Total population by country[2]
 3. Mobile data traffic in GB by region (Asia Pacific, Middle East and Africa, Central and Eastern Europe, North America, Western Europe, Latin America)[3]
 4. Cost per GB of mobile data by country[4]
-5. Average bandwith of mobile internet by country[5]
+5. Average bandwidth of mobile internet by country[5]
 
 To calculate the total number of subscribers in a country, multiplied each country's the number of broadband subscriptions per 100 people by the total population divided by 100. <br />
 
