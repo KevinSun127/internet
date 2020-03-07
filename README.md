@@ -3,7 +3,7 @@
 Used the following datasets:<br />
 1. Mobile broadband subscriptions per 100 people by country
 2. Total population by country
-3. Mobile data traffic (GB) by region (Asia Pacific, Middle EAst and Africa, Central and Eastern Europe, North America, Western Europe, Latin America)
+3. Mobile data traffic in GB by region (Asia Pacific, Middle East and Africa, Central and Eastern Europe, North America, Western Europe, Latin America)
 4. Price per GB by country
 5. Average speed of internet by country
 
