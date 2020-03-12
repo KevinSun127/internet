@@ -1,0 +1,166 @@
+Average Internet Speed Per Country (MB/s)
+Afghanistan 1.26
+Albania	7.61
+Algeria	1.37
+Angola	1.21
+Argentina 2.83
+Armenia	4.85
+Aruba	15.15
+Australia 16.36
+Austria	19.33
+Azerbaijan 3.10
+Bahamas	11.13
+Bahrain	6.24
+Bangladesh 2.72
+Barbados 16.03
+Belarus	13.19
+Belgium	35.69
+Belize	6.80
+Benin	0.94
+Bolivia	1.73
+Bosnia and Herzegovina 7.53
+Botswana 1.92
+Brazil	4.84
+Brunei	4.78
+Bulgaria 16.95
+Burkina Faso 1.02
+Burundi	3.03
+Cabo Verde 3.31
+Cambodia 4.03
+Cameroon 1.03
+Canada	28.76
+Chile	3.89
+China	2.69
+Colombia 3.48
+Comoros	2.54
+Costa Rica	4.52
+Croatia	17.22
+Cyprus	11.00
+Czech Republic	23.27
+Denmark	49.19
+Djibouti	0.88
+Dominica	9.48
+Dominican Republic	4.09
+Ecuador	3.46
+Egypt	1.62
+El Salvador	2.93
+Equatorial Guinea	0.51
+Estonia	31.55
+eSwatini (Formerly Swaziland)	1.45
+Ethiopia	0.80
+Fiji	4.62
+Finland	29.34
+France	30.44
+Gabon	1.26
+Gambia	1.21
+Georgia	7.14
+Germany	24.64
+Ghana	3.20
+Greece	13.41
+Guatemala	3.22
+Guinea	1.25
+Guyana	3.49
+Haiti	2.94
+Honduras	2.84
+Hungary	31.10
+Iceland	22.13
+India	8.66
+Indonesia	6.65
+Iran	4.39
+Iraq	1.39
+Ireland	23.87
+Israel	8.85
+Italy	17.30
+Ivory Coast	1.83
+Jamaica	9.08
+Japan	42.77
+Kazakhstan	4.66
+Kenya	7.62
+Kuwait	3.88
+Kyrgyzstan	2.50
+Laos	2.92
+Latvia	32.74
+Lebanon	1.84
+Liberia	2.11
+Libya	1.88
+Lithuania	30.66
+Luxembourg	41.69
+Madagascar	22.57
+Malawi	1.59
+Malaysia	23.86
+Maldives	1.81
+Mali	1.56
+Malta	18.16
+Martinique	7.23
+Mauritania	0.59
+Mauritius	5.02
+Mexico	6.02
+Mongolia	2.10
+Montenegro	9.10
+Morocco	5.48
+Mozambique	2.16
+Myanmar	4.87
+Namibia	3.39
+Nepal	3.62
+The Netherlands	40.21
+New Zealand	32.72
+Nicaragua	2.54
+Niger	0.71
+Nigeria	1.56
+North Macedonia	7.97
+Norway	38.46
+Oman	5.07
+Pakistan	1.44
+Palestine	1.83
+Panama	8.09
+Papua New Guinea	2.47
+Paraguay	3.55
+Peru	2.86
+Philippines	6.05
+Poland	24.38
+Portugal	22.75
+Puerto Rico	8.00
+Qatar	5.35
+South Korea	19.18
+Republic of Moldova	11.56
+Republic of the Congo	0.93
+Romania	21.80
+Russian Federation	14.89
+Rwanda	3.34
+Saint Lucia	6.08
+Saint Vincent and the Grenadines	3.81
+São Tomé and Príncipe	0.87
+Saudi Arabia	5.27
+Senegal	2.25
+Serbia	19.17
+Seychelles	2.93
+Sierra Leone	1.20
+Singapore	70.86
+Slovakia	29.45
+Slovenia	27.83
+Somalia	0.86
+South Africa	8.40
+Spain	36.06
+Sri Lanka	7.67
+Sudan	1.93
+Suriname	3.40
+Sweden	55.18
+Switzerland	38.85
+Taiwan	85.02
+Tanzania	2.34
+Thailand	18.21
+Togo	1.96
+Trinidad and Tobago	12.90
+Tunisia	4.64
+Turkey	5.27
+Uganda	3.22
+Ukraine	7.72
+United Arab Emirates	9.62
+United Kingdom	22.37
+United States	32.89
+Uruguay	9.16
+Uzbekistan	1.37
+Vietnam	7.02
+Yemen	0.38
+Zambia	3.13
+Zimbabwe	2.73

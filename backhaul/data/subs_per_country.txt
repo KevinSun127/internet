@@ -1,0 +1,196 @@
+Annex 3: Mobile-Broadband Subscriptions per 100 inhabitants, 2017
+https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.19-2018-PDF-E.pdf
+
+1 Afghanistan 16.0
+2 Albania 69.3
+3 Algeria 83.9
+4 Andorra 55.6
+5 Angola 14.6
+6 Antigua and Barbuda 40.6
+7 Argentina 78.1
+8 Armenia 66.8
+9 Australia 134.9
+10 Austria 86.2
+11 Azerbaijan 56.8
+12 Bahamas 81.6
+13 Bahrain 147.3
+14 Bangladesh 30.0
+15 Barbados 50.6
+16 Belarus 76.2
+17 Belgium 75.1
+18 Belize 13.4
+19 Benin 12.0
+20 Bhutan 87.4
+21 Bolivia (Plurinational State of) 76.5
+22 Bosnia and Herzegovina 43.4
+23 Botswana 66.9
+24 Brazil 90.2
+25 Brunei Darussalam 126.6
+26 Bulgaria 91.6
+27 Burkina Faso 28.8
+28 Burundi 17.2
+29 Cabo Verde 69.9
+30 Cambodia 66.9
+31 Cameroon 10.5
+32 Canada 72.5
+33 Central African Republic 3.5
+34 Chad 9.2
+35 Chile 88.2
+36 China 83.6
+37 Colombia 48.8
+38 Comoros 0.9
+39 Congo (Dem. Rep. of) 16.2
+40 Congo (Rep. of) 5.9
+41 Costa Rica 116.6
+42 Côte d’Ivoire 53.9
+43 Croatia 79.7
+45 Cyprus 106.4
+46 Czech Republic 81.9
+47 Dem. People’s Rep. of Korea 14.2
+48 Denmark 129.0
+49 Djibouti 11.7
+50 Dominica 40.7
+51 Dominican Republic 55.7
+52 Ecuador 53.0
+53 Egypt 50.1
+54 El Salvador 56.1
+55 Equatorial Guinea 0.3
+56 Eritrea -
+57 Estonia 133.4
+58 Eswatini 12.6
+59 Ethiopia 7.1
+60 Fiji 55.7
+61 Finland 153.8
+62 France 87.5
+63 Gabon 84.1
+64 Gambia 21.2
+65 Georgia 73.1
+66 Germany 79.8
+67 Ghana 83.2
+68 Greece 63.4
+69 Grenada 89.2
+70 Guatemala 13.9
+71 Guinea 15.3
+72 Guinea-Bissau 7.3
+73 Guyana 26.3
+74 Haiti 27.1
+75 Honduras 24.5
+76 Hong Kong, China 105.0
+77 Hungary 49.1
+78 Iceland 113.3
+79 India 25.8
+80 Indonesia 95.7
+81 Iran 68.2
+82 Iraq 25.1
+83 Ireland 102.0
+84 Israel 105.1
+85 Italy 87.9
+86 Jamaica 48.9
+87 Japan 133.2
+88 Jordan 103.8
+89 Kazakhstan 75.1
+90 Kenya 35.7
+91 Kiribati 42.0
+92 South Korea 112.8
+93 Kuwait 227.9
+94 Kyrgyzstan 73.7
+95 Lao P.D.R. 40.0
+96 Latvia 117.9
+97 Lebanon 56.8
+98 Lesotho 49.0
+99 Liberia 5.2
+100 Libya 35.4
+101 Liechtenstein 122.6
+102 Lithuania 79.8
+103 Luxembourg 88.1
+104 Macao, China 321.8
+105 Madagascar 13.0
+106 Malawi 25.5 
+107 Malaysia 111.5
+108 Maldives 63.5
+109 Mali 23.2
+110 Malta 102.5
+111 Marshall Islands -
+112 Mauritania 30.3
+113 Mauritius 59.0
+114 Mexico 63.6
+115 Micronesia -
+116 Moldova 60.0
+117 Monaco 75.0
+118 Mongolia 80.8
+119 Montenegro 66.5
+120 Morocco 58.3
+121 Mozambique 25.7
+122 Myanmar 75.1
+123 Namibia 59.3
+124 Nauru 32.6
+125 Nepal 52.4
+126 The Netherlands 90.8
+127 New Zealand 101.6
+128 Nicaragua 30.4
+129 Niger 4.0
+130 Nigeria 19.9
+131 Norway 95.1
+132 Oman 93.9
+133 Pakistan 24.7
+134 Palestine* 0.0
+135 Panama 60.7
+136 Papua New Guinea 8.9
+137 Paraguay 47.9
+138 Peru 64.2
+139 Philippines 68.6
+140 Poland 57.3
+141 Portugal 68.9
+142 Qatar 117.4
+143 Romania 82.9
+144 Russian Federation 80.8
+145 Rwanda 35.0
+146 Saint Kitts and Nevis 78.7
+147 Saint Lucia 38.7
+148 Saint Vincent and the Grenadines 49.6
+149 Samoa 29.8
+150 San Marino 113.8
+151 Sao Tome and Principe 33.9 
+152 Saudi Arabia 90.0
+153 Senegal 26.9
+154 Serbia 77.1
+155 Seychelles 76.0
+156 Sierra Leone 20.4
+157 Singapore 148.2
+158 Slovakia 82.6
+159 Slovenia 70.0
+160 Solomon Islands 18.7
+161 Somalia 2.0
+162 South Africa 70.0
+163 South Sudan 1.1
+164 Spain 95.5
+165 Sri Lanka 22.4
+166 Sudan 30.5
+167 Suriname 47.3
+168 Sweden 122.6
+169 Switzerland 99.7
+170 Syrian Arab Republic 12.7
+171 Tajikistan 18.3
+172 Tanzania 8.7
+173 Thailand 99.0
+174 North Macedonia 63.9
+175 Timor-Leste 33.6
+176 Togo 20.7
+177 Tonga 56.0
+178 Trinidad and Tobago 46.1
+179 Tunisia 65.0x
+180 Turkey 70.5
+181 Turkmenistan 13.6
+183 Uganda 23.4
+184 Ukraine 41.7
+185 United Arab Emirates 243.4
+186 United Kingdom 88.1
+187 United States 132.9
+188 Uruguay 112.1
+189 Uzbekistan 59.4
+190 Vanuatu 45.4
+192 Venezuela 50.1
+193 Vietnam 46.9
+194 Yemen 5.7
+195 Zambia 45.2
+196 Zimbabwe 41.3
