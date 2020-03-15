@@ -1,13 +1,10 @@
 import pandas as pd
-import numpy as np
-import warnings
 import re
 import math
-import matplotlib.pyplot as plt
-import seaborn as seabornInstance
-import statsmodels.api as sm
 import itertools
-
+import sys
+sys.path.insert(0, 'data')
+from toExcel import *
 
 # take all countries's median income
 
@@ -118,7 +115,6 @@ def progressivePricing(regionIncome):
 
 
 # helper function to determine how much data is used in a region
-
 def subsPerCapita():
     countrySubsCapita = {}
     subsPerCountry = open('data/subs_per_country.txt').read()
@@ -163,8 +159,9 @@ def perPassengerHourlyData(timePerPassenger, dataPerMonthPerPerson):
     return regionPassDataUse
 
 
-
-def dataBasedPricing():
+# data price per month is 37 times more expensive than average broadband
+#   explain that
+def inflatedDataBasedPricing():
     regionPassDataUse = perPassengerHourlyData(usagePerPassenger(), avgDataPerRegion())
     countryWifiCost = {}
     countryPass = passengersPerCountry()
@@ -178,20 +175,50 @@ def dataBasedPricing():
     for (price, region, country) in zip(avgPrice, regionNames, countryNames):
         # price per GB * total GB used per contract in that region
         if region in regionPassDataUse and country in countryPass:
-            countryWifiCost[country] = float(price[1:])*regionPassDataUse[region]*countryPass[country]*.77
-            globalTAM+=float(price[1:])*regionPassDataUse[region]*countryPass[country]*.77
+            countryWifiCost[country] = float(price[1:])*regionPassDataUse[region]*countryPass[country]*.77*37
+            globalTAM+=float(price[1:])*regionPassDataUse[region]*countryPass[country]*.77*37
     print("In-flight Aviation Global TAM [Data-Usage Pricing] = ${:,.2f}".format(round(globalTAM, 2)))
     return countryWifiCost
 
 
+def pricePerGB():
+    GBPrice = {}
+    dataCosts = pd.read_excel('data/pricePerGB.xlsx')
+    countryNames = dataCosts['Name']
+    regionNames = dataCosts['Region']
+    avgPrice = dataCosts['Average price of 1GB (USD)']
+    for (price, country) in zip(avgPrice, countryNames):
+        GBPrice[country] = float(price[1:])
+    return GBPrice
 
-
-
-
-#print(avgIncomePerRegion(perCapitaIncomePerCountry(), rawPopPerCountry(), countryToRegion()))
 
 progressivePricing(avgIncomePerRegion(perCapitaIncomePerCountry(), rawPopPerCountry(), countryToRegion()))
 
 
-dataBasedPricing()
+inflatedDataBasedPricing()
 
+
+def updateData():
+    regions = countryToRegion()
+    avgRegDataPerMonth = avgDataPerRegion()
+    passDataUsage = perPassengerHourlyData(usagePerPassenger(), avgDataPerRegion())
+    passCount = passengersPerCountry()
+    passTime = usagePerPassenger()
+    dataPrice = pricePerGB()
+    perCapIncome = perCapitaIncomePerCountry()
+    createWb("AviationTAM")
+    createSheet("AviationTAM", "TAM Breakdown", 0)
+    
+    exportData = [["Country", "National Inflight Data Usage (GB)",
+                   "National Passenger Flight Time (Hours)", "Average Per GB Internet Cost (USD)", "Per Capita Income Pricing (USD)" ]]
+
+    for country in regions:
+        if country in passCount and country in dataPrice and country in perCapIncome:
+            exportData.append([country, passDataUsage[regions[country]]*passCount[country]*.77, passTime[regions[country]]*passCount[country], dataPrice[country], perCapIncome[country]*0.00013])
+                  
+    addData("AviationTAM", "TAM Breakdown", exportData)
+
+
+updateData()
+
+#"Total Inflight Wifi Revenue (USD)", "Total Data Usage", "$ Per Mbps"
